@@ -1,3 +1,4 @@
 this is a line of code
 and this is another
+inserted extra line !
 final line is the end of a file
