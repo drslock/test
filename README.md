@@ -1,3 +1,3 @@
 # Test Project
 
-This is a repository just for testing
+This is a repository just for testing purposes
