@@ -1,4 +1,5 @@
 # Test Project
 
-This is a repository just for testing
-With some test branches
+This is a repository just for testing purposes
+Some extra text
+
